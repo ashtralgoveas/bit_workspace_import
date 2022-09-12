@@ -1,0 +1,15 @@
+
+
+.button {
+  background: var(--primary-color);
+  border: var(--border-color);
+}
+
+.button:hover {
+  background: var(--surface-hover-color);
+}
+
+.button:active {
+  background: var(--surface-active-color);
+}
+
